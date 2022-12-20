@@ -1,3 +1,6 @@
+#Need to remove parentheses in handleCompress.js and  handleDecompress 
+
+
 # Scoring: File Manager
 ## Basic Scope
 - General
@@ -14,9 +17,9 @@
     - **+10** Read file and print it's content in console
     - **+10** Create empty file
     - **+10** Rename file
-    - **+10** Copy file
-    - **+10** Move file
-    - **+10** Delete file
+    - **+5** Copy file ( path problem )
+    - **+5** Move file ( path problem )
+    - **+5** Delete file ( path problem )
 - Operating system info (prints following information in console) implemented properly
     - **+6** Get EOL (default system End-Of-Line)
     - **+10** Get host machine CPUs info (overall amount of CPUS plus model and clock rate (in GHz) for each of them)
@@ -36,4 +39,4 @@
 - **+20** Codebase is written in ESM modules instead of CommonJS
 - **+20** Codebase is separated (at least 7 modules)
 
-## Overall: 300
+## Overall: 290
