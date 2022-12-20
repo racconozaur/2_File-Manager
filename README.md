@@ -1,4 +1,4 @@
-#Need to remove parentheses in handleCompress.js and  handleDecompress 
+# **Need to remove parentheses in handleCompress.js and  handleDecompress beforw running app**
 
 
 # Scoring: File Manager
