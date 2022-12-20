@@ -39,4 +39,4 @@
 - **+20** Codebase is written in ESM modules instead of CommonJS
 - **+20** Codebase is separated (at least 7 modules)
 
-## Overall: 290
+## Overall: 285
